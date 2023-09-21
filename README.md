@@ -1,5 +1,5 @@
-Krishipradhan
-Krishipradhan is a farmer-centric website created within 24 hours at the National Agro Hackathon 2023. The website aims to provide farmers with valuable information and resources to help them improve their crop yields and overall farming practices.
+KisanMitra
+KisanMitra is a farmer-centric website created within 24 hours at the Tekathon 2.0 hosted at Chandigarh University. The website aims to provide farmers with valuable information and resources to help them improve their crop yields and overall farming practices.
 
 Features
 Crop information: Detailed information about various crops, including cultivation practices, pests and diseases, and recommended fertilizers and pesticides.
@@ -14,4 +14,3 @@ Community forum: A community forum where farmers can connect with each other, sh
 
 Contributing
 Contributions to Krishipradhan are always welcome! If you would like to contribute, please create a pull request with your changes. Before creating a pull request, please make sure that your changes are thoroughly tested and do not break any existing functionality.
-![screencapture-shubhamchoudharyshubh-github-io-krishipradhan-2023-07-07-21_56_43](https://github.com/ShubhamChoudharyShubh/krishipradhan/assets/96586771/2ed9ddc8-8f0b-42e7-8a4f-2bfe466f1156)
